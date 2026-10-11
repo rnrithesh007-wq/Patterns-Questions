@@ -11,6 +11,7 @@ This repository provides a simple way to practice Java programming, understand p
 •	Build a foundation for technical interviews and coding assessments.
 📂 Repository Structure
 Patterns-Questions/
+
 ├── q1.java
 ├── q2.java
 ├── q3.java
