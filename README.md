@@ -15,6 +15,7 @@ This repository provides a simple way to practice Java programming, understand p
 
 📂 Repository Structure
 Patterns-Questions/
+
 ├── q1.java
 
 ├── q2.java
