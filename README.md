@@ -3,6 +3,7 @@ A collection of Java programming questions and solutions designed to improve log
 
 📌 About the Project
 Patterns-Questions is a Java-based coding practice repository that contains a series of programming questions organized into individual Java files. It is intended for students, beginners, and aspiring developers who want to strengthen their programming skills through hands-on coding.
+
 This repository provides a simple way to practice Java programming, understand problem-solving techniques, and build confidence in writing code.
 
 🎯 Objectives
@@ -15,13 +16,21 @@ This repository provides a simple way to practice Java programming, understand p
 📂 Repository Structure
 Patterns-Questions/
 ├── q1.java
+
 ├── q2.java
+
 ├── q3.java
+
 ├── q4.java
+
 ├── ...
+
 ├── q31.java
+
 ├── q32.java
+
 └── q33.java
+
 Each Java file contains an individual programming solution or question.
 
 🛠️ Technologies Used
